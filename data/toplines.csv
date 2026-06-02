@@ -1,0 +1,263 @@
+question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
+2024-122_a_1,1,Yes,0.6786283194970922,67.86,678.6283194971376,680,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-1
+2024-122_a_1,2,No,0.27658855495947016,27.66,276.5885549594886,275,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-1
+2024-122_a_1,3,Not sure,0.04478312554343753,4.48,44.78312554344052,45,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-1
+2024-122_a_10,1,Yes,0.2551295593672964,25.51,255.12955936731345,257,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-10
+2024-122_a_10,2,No,0.6512504455302376,65.13,651.250445530281,653,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-10
+2024-122_a_10,3,Not Sure,0.09361999510246598,9.36,93.61999510247223,90,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-10
+2024-122_a_11,1,No,0.9469971369241504,94.7,946.9971369242137,948,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-11
+2024-122_a_11,2,"Yes, Adjustable Gastric Band (LAP-Band surgery)",0.006552699806832935,0.66,6.552699806833372,5,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-11
+2024-122_a_11,3,"Yes, Biliopancreatic Diversion with Duodenal Switch",0.0034633749613524304,0.35,3.4633749613526614,4,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-11
+2024-122_a_11,4,"Yes, Gastric Bypass",0.024608096829781857,2.46,24.6080968297835,25,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-11
+2024-122_a_11,5,"Yes, Gastric Sleeve",0.018378691477882313,1.84,18.37869147788354,18,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-11
+2024-122_a_12,1,Never,0.13927785769477316,13.93,139.27785769478245,129,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-12
+2024-122_a_12,2,Unlikely,0.1303381842121151,13.03,130.3381842121238,141,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-12
+2024-122_a_12,3,Neutral,0.4260566417592089,42.61,426.0566417592373,419,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-12
+2024-122_a_12,4,Somewhat likely,0.19659021072258856,19.66,196.59021072260168,201,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-12
+2024-122_a_12,5,Definitely,0.10773710561131429,10.77,107.73710561132148,110,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-12
+2024-122_a_13,1,Not applicable; I did not have braces when I was between 9-26 years old.,0.6720917270247825,67.21,623.4383042473751,615,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-13
+2024-122_a_13,3,"Yes, the orthodontist or orthodontist assistant provided health information on vaccinations for young people.",0.037335719407992955,3.73,34.63294764632127,34,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-13
+2024-122_a_13,4,"Yes, the orthodontist or orthodontist assistant provided health education on eating healthy.",0.06693310646749907,6.69,62.08774891313005,64,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-13
+2024-122_a_13,5,"No, the orthodontist or orthodontist assistant did NOT provide general health education for young people.",0.22363944709972552,22.36,207.44995371373216,218,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-13
+2024-122_a_14,1,Yes,0.2995702995973296,29.96,299.5702995973496,318,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-14
+2024-122_a_14,2,Not yet but I anticipate needing it in the next 12 months,0.09990367696352612,9.99,99.90367696353279,91,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-14
+2024-122_a_14,3,No,0.6005260234391442,60.05,600.5260234391843,591,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-14
+2024-122_a_15,1,Less than $100,0.33029307318980505,33.03,330.2930731898271,283,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-15
+2024-122_a_15,2,At least $100 but less than $500,0.23268768848634544,23.27,232.68768848636097,235,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-15
+2024-122_a_15,3,At least $500 but less than $1000,0.16237290723821363,16.24,162.37290723822446,168,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-15
+2024-122_a_15,4,At least $1000 but less than $2500,0.1497917183108436,14.98,149.79171831085358,165,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-15
+2024-122_a_15,5,At least $2500 but less than $5000,0.07756162634845497,7.76,77.56162634846014,93,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-15
+2024-122_a_15,6,At least $5000 but less than $9000,0.03531772485039083,3.53,35.31772485039318,42,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-15
+2024-122_a_15,7,$9000 or more,0.011975261575946519,1.2,11.975261575947318,14,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-15
+2024-122_a_16,1,Significantly,0.2030934175092743,20.31,203.09341750928783,196,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-16
+2024-122_a_16,2,Somewhat,0.3850722118840106,38.51,385.0722118840363,391,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-16
+2024-122_a_16,3,Not at all,0.313592199739248,31.36,313.59219973926895,324,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-16
+2024-122_a_16,4,Unsure,0.0982421708674671,9.82,98.24217086747366,89,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-16
+2024-122_a_17,1,1,0.07014309570467211,7.01,70.1430957046768,63,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-17
+2024-122_a_17,2,2,0.09216409488880878,9.22,92.16409488881493,86,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-17
+2024-122_a_17,3,3,0.3690538452517002,36.91,369.05384525172485,368,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-17
+2024-122_a_17,4,4,0.22928211264702306,22.93,229.28211264703836,239,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-17
+2024-122_a_17,5,5,0.2393568515077958,23.94,239.35685150781177,244,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-17
+2024-122_a_18,1,Strongly disagree,0.026334030125896704,2.63,26.33403012589846,25,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-18
+2024-122_a_18,2,Disagree,0.041449707206831846,4.14,41.44970720683461,41,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-18
+2024-122_a_18,3,Neither disagree nor agree,0.14470125452808222,14.47,144.70125452809188,125,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-18
+2024-122_a_18,4,Agree,0.32793835532763665,32.79,327.93835532765854,351,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-18
+2024-122_a_18,5,Strongly agree,0.3725016326737172,37.25,372.50163267374205,385,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-18
+2024-122_a_18,6,I do not have a primary/family doctor,0.08707502013783537,8.71,87.07502013784118,73,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-18
+2024-122_a_19,1,Strongly Disagree,0.024884114378110053,2.49,24.884114378111715,26,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-19
+2024-122_a_19,2,Disagree,0.04352955973429811,4.35,43.52955973430102,46,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-19
+2024-122_a_19,3,Neither Disagree nor Agree,0.17244106313391833,17.24,172.44106313392984,155,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-19
+2024-122_a_19,4,Agree,0.29521048805909533,29.52,295.21048805911505,309,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-19
+2024-122_a_19,5,Strongly Agree,0.3736017600451141,37.36,373.60176004513903,388,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-19
+2024-122_a_19,6,I do not have a primary care or family doctor,0.09033301464946403,9.03,90.33301464947006,76,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-19
+2024-122_a_2,1,Yes,0.7230494401986421,72.3,723.0494401986904,747,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-2
+2024-122_a_2,2,No,0.27695055980135785,27.7,276.95055980137636,253,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-2
+2024-122_a_20,1,Strongly agree,0.06359418698697504,6.36,63.59418698697928,61,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-20
+2024-122_a_20,2,Agree,0.12752107045603794,12.75,127.52107045604646,132,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-20
+2024-122_a_20,3,Neither agree or disagree,0.21163805779713846,21.16,211.63805779715258,199,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-20
+2024-122_a_20,4,Disagree,0.21987966997584396,21.99,219.87966997585863,236,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-20
+2024-122_a_20,5,Strongly disagree,0.2851909336401072,28.52,285.1909336401263,297,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-20
+2024-122_a_20,6,I don’t have a primary care/family doctor,0.09217608114389732,9.22,92.17608114390347,75,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-20
+2024-122_a_21,1,"Yes, only to me",0.14324744398022324,14.32,143.2474439802328,132,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-21
+2024-122_a_21,2,"Yes, only to my child",0.04895087243729837,4.9,48.95087243730164,54,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-21
+2024-122_a_21,3,"Yes, to both me and my child",0.11356239978651074,11.36,113.56239978651831,118,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-21
+2024-122_a_21,4,No,0.6129764581553506,61.3,612.9764581553916,622,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-21
+2024-122_a_21,5,I don't remember,0.08126282564061696,8.13,81.26282564062238,74,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-21
+2024-122_a_22,1,Yes,0.5317785155828656,53.18,531.778515582901,550,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-22
+2024-122_a_22,2,No,0.3205327887399494,32.05,320.5327887399708,298,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-22
+2024-122_a_22,3,I am not sure,0.147688695677185,14.77,147.68869567719486,152,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-22
+2024-122_a_23,1,Me and/or my partner,0.08893724679705743,8.89,88.93724679706337,93,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-23
+2024-122_a_23,2,A family member,0.17623285678149941,17.62,176.23285678151117,182,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-23
+2024-122_a_23,3,"A friend, colleague, or acquaintance",0.21388244641775814,21.39,213.8824464177724,235,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-23
+2024-122_a_23,4,I don’t know anyone with infertility,0.6035869109399682,60.36,603.5869109400085,578,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-23
+2024-122_a_24,1,"Yes, with no restrictions.",0.5285507940501295,52.86,528.5507940501648,556,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-24
+2024-122_a_24,2,"Yes, but with some restrictions (e.g., unused embryos cannot be discarded)",0.21315661445820747,21.32,213.1566144582217,220,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-24
+2024-122_a_24,3,No,0.11235132221751765,11.24,112.35132221752514,102,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-24
+2024-122_a_24,4,Unsure,0.14594126927414536,14.59,145.9412692741551,122,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-24
+2024-122_a_25,1,Strongly support,0.4065947479826724,40.66,406.5947479826996,416,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-25
+2024-122_a_25,2,Somewhat support,0.23863083249671055,23.86,238.63083249672647,250,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-25
+2024-122_a_25,3,Neither support nor oppose,0.25588376646803696,25.59,255.88376646805403,234,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-25
+2024-122_a_25,4,Somewhat oppose,0.051926282248418804,5.19,51.92628224842227,54,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-25
+2024-122_a_25,5,Strongly oppose,0.04696437080416124,4.7,46.964370804164375,46,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-25
+2024-122_a_26,1,Yes,0.15235649235068177,15.24,152.35649235069195,149,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-26
+2024-122_a_26,2,Somewhat,0.36485119811115807,36.49,364.85119811118244,368,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-26
+2024-122_a_26,3,No,0.3504661384145301,35.05,350.4661384145535,343,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-26
+2024-122_a_26,4,Unsure,0.13232617112363004,13.23,132.3261711236389,140,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-26
+2024-122_a_27,1,Gay or Lesbian,0.0426099257349487,4.26,42.609925734951545,47,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-27
+2024-122_a_27,2,Bisexual,0.05665486622807248,5.67,56.654866228076266,41,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-27
+2024-122_a_27,3,Heterosexual,0.8651965757372957,86.52,865.1965757373534,885,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-27
+2024-122_a_27,4,Pansexual,0.014546913700243655,1.45,14.546913700244625,12,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-27
+2024-122_a_27,5,Other (Please specify),0.020991718599439487,2.1,20.991718599440887,15,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-27
+2024-122_a_28,1,0- Strongly Disagree,0.5499028637370167,54.99,549.9028637370534,564,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-28
+2024-122_a_28,2,1,0.07105654407455875,7.11,71.05654407456349,82,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-28
+2024-122_a_28,3,2,0.07498816967708116,7.5,74.98816967708616,70,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-28
+2024-122_a_28,4,3,0.1325922679156521,13.26,132.59226791566095,123,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-28
+2024-122_a_28,5,4,0.05953593325614681,5.95,59.535933256150784,59,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-28
+2024-122_a_28,6,5- Strongly Agree,0.11192422133954444,11.19,111.9242213395519,102,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-28
+2024-122_a_29,1,Yes,0.24357166894264615,24.36,243.5716689426624,220,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-29
+2024-122_a_29,2,No,0.7564283310573539,75.64,756.4283310574043,780,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-29
+2024-122_a_3,1,Yes,0.866513368286988,86.65,866.5133682870459,894,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-3
+2024-122_a_3,2,No,0.13348663171301195,13.35,133.48663171302087,106,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-3
+2024-122_a_30,1,"Yes, I was born in Africa",0.007413541163063106,0.74,7.4135411630636,6,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-30
+2024-122_a_30,2,"Yes, I was born in America",0.15616741595180267,15.62,156.1674159518131,144,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-30
+2024-122_a_30,3,"Yes, I was born in the Caribbean",0.013380220780669371,1.34,13.380220780670264,9,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-30
+2024-122_a_30,4,"Yes, I was born in Latin America",0.02235750565168334,2.24,22.357505651684832,16,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-30
+2024-122_a_30,5,"Yes, I was born in Europe",0.0017206932391690265,0.17,1.7206932391691414,2,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-30
+2024-122_a_30,6,"Yes, I was born elsewhere",0.01018299133318995,1.02,10.18299133319063,8,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-30
+2024-122_a_30,7,No,0.7887776318804225,78.88,788.7776318804752,815,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-30
+2024-122_a_31,1,Never,0.3012577228741346,30.13,301.2577228741547,295,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-31
+2024-122_a_31,2,Rarely,0.20267187927159044,20.27,202.67187927160396,202,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-31
+2024-122_a_31,3,Sometimes,0.2544128423961191,25.44,254.4128423961361,268,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-31
+2024-122_a_31,4,Often,0.11820076077627423,11.82,118.20076077628211,116,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-31
+2024-122_a_31,5,Very often,0.09219056577968113,9.22,92.19056577968728,91,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-31
+2024-122_a_31,6,I am not sure,0.021676302959752907,2.17,21.676302959754352,21,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-31
+2024-122_a_31,7,I prefer not to answer,0.009589925942447598,0.96,9.589925942448238,7,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-31
+2024-122_a_4,1,Yes,0.1397437035252284,13.97,139.74370352523775,142,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-4
+2024-122_a_4,2,No,0.7554391387623679,75.54,755.4391387624183,761,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-4
+2024-122_a_4,3,Unsure,0.10481715771240364,10.48,104.81715771241063,97,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-4
+2024-122_a_5,1,Very likely,0.3360842657553809,33.61,336.08426575540335,363,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-5
+2024-122_a_5,2,Somewhat likely,0.19859797240840055,19.86,198.5979724084138,205,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-5
+2024-122_a_5,3,Neutral,0.2265069088174318,22.65,226.5069088174469,199,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-5
+2024-122_a_5,4,Somewhat unlikely,0.09078916203718583,9.08,90.78916203719189,94,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-5
+2024-122_a_5,5,Very unlikely,0.14802169098160092,14.8,148.0216909816108,139,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-5
+2024-122_a_6,1,Yes,0.29888584037941773,29.89,298.8858403794377,281,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-6
+2024-122_a_6,2,No,0.694993404062162,69.5,694.9934040622085,713,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-6
+2024-122_a_6,3,I don't know,0.0061207555584202,0.61,6.120755558420608,6,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-6
+2024-122_a_7,1,Yes,0.3118741874251529,31.19,311.8741874251737,294,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-7
+2024-122_a_7,2,No,0.6752561415485104,67.53,675.2561415485555,695,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-7
+2024-122_a_7,3,I don’t know,0.012869671026336614,1.29,12.869671026337473,11,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-7
+2024-122_a_8,1,Yes,0.25746807878378725,25.75,257.4680787838044,246,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-8
+2024-122_a_8,2,No,0.6987602365283763,69.88,698.7602365284229,715,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-8
+2024-122_a_8,3,I don’t know,0.04377168468783654,4.38,43.77168468783946,39,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-8
+2024-122_a_9,1,0 per week,0.4431485526029767,44.31,443.1485526030063,443,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-9
+2024-122_a_9,2,1- 1 of the 4 substances listed above per week,0.34981905950231446,34.98,349.8190595023378,362,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-9
+2024-122_a_9,3,2- any combination of 2 substances (of the 4 listed above) per week,0.13265127582531575,13.27,132.6512758253246,130,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-9
+2024-122_a_9,4,3- any combination of 3 substances (of the 4 listed above) per week,0.043292909434952065,4.33,43.29290943495496,41,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-9
+2024-122_a_9,5,4- all 4 substances per week,0.031088202634441047,3.11,31.08820263444312,24,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-a-9
+2024-122_b_1,1,Not at all,0.12991642689675292,12.99,129.91642689675922,141,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-1
+2024-122_b_1,2,A little,0.24965357685296258,24.97,249.65357685297468,261,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-1
+2024-122_b_1,3,Somewhat,0.30451820023762327,30.45,304.51820023763804,299,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-1
+2024-122_b_1,4,A lot,0.16954109352558186,16.95,169.54109352559007,173,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-1
+2024-122_b_1,5,Completely,0.14637070248707923,14.64,146.3707024870863,126,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-1
+2024-122_b_10,1,Yes,0.2655934869349396,26.56,265.59348693495247,264,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-10
+2024-122_b_10,2,No,0.0288989129029889,2.89,28.8989129029903,25,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-10
+2024-122_b_10,3,Unsure,0.02092971978187718,2.09,20.929719781878195,18,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-10
+2024-122_b_10,4,I do not live in Louisiana,0.6845778803801942,68.46,684.5778803802274,693,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-10
+2024-122_b_11,1,Yes,0.8785683987891656,87.86,878.5683987892081,880,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-11
+2024-122_b_11,2,No,0.12143160121083431,12.14,121.43160121084018,120,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-11
+2024-122_b_12,1,Yes,0.6572402122147392,65.72,657.240212214771,648,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-12
+2024-122_b_12,2,No,0.3427597877852608,34.28,342.7597877852774,352,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-12
+2024-122_b_13,1,"Yes, I have received benefits in the past",0.20151836091959074,20.15,201.5183609196005,191,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-13
+2024-122_b_13,2,"Yes, I currently use SNAP",0.164423740963921,16.44,164.42374096392896,149,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-13
+2024-122_b_13,3,"No, I applied but did not receive benefits",0.08888263120100373,8.89,88.88263120100804,77,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-13
+2024-122_b_13,4,"No, I never applied",0.5451752669154845,54.52,545.1752669155109,583,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-13
+2024-122_b_14,1,Yes,0.040854656381735945,4.09,40.854656381737925,38,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-14
+2024-122_b_14,2,No,0.8814016398916793,88.14,881.401639891722,899,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-14
+2024-122_b_14,3,I don't know,0.07774370372658462,7.77,77.7437037265884,63,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-14
+2024-122_b_15,1,Very Positive,0.2090323230975023,20.9,209.03232309751243,221,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-15
+2024-122_b_15,2,Positive,0.31344185112299944,31.34,313.4418511230146,340,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-15
+2024-122_b_15,3,Neutral,0.2630736369664276,26.31,263.07363696644035,232,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-15
+2024-122_b_15,4,Negative,0.031106561599561485,3.11,31.10656159956299,31,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-15
+2024-122_b_15,5,Very Negative,0.009422607508854429,0.94,9.422607508854885,9,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-15
+2024-122_b_15,6,I don’t know what that is,0.17392301970465468,17.39,173.9230197046631,167,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-15
+2024-122_b_16,1,1- Strongly agree,0.3336234289695849,33.36,333.6234289696011,351,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-16
+2024-122_b_16,2,2- Agree,0.3756884955152546,37.57,375.6884955152728,387,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-16
+2024-122_b_16,3,3- Neither agree nor disagree,0.21537025812777974,21.54,215.37025812779018,192,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-16
+2024-122_b_16,4,4- Disagree,0.037089096472026836,3.71,37.08909647202863,38,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-16
+2024-122_b_16,5,5- Strongly Disagree,0.038228720915353794,3.82,38.228720915355645,32,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-16
+2024-122_b_17,1,Mother,0.3797657006576939,37.98,379.7657006577123,347,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-17
+2024-122_b_17,2,Partner,0.5546906658634352,55.47,554.6906658634621,544,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-17
+2024-122_b_17,3,Clergy,0.11339655422463293,11.34,113.39655422463842,120,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-17
+2024-122_b_17,4,Provider,0.38623685445877104,38.62,386.23685445878976,415,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-17
+2024-122_b_17,5,Friend,0.44451152090432217,44.45,444.5115209043437,441,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-17
+2024-122_b_18,1,Gun violence,0.15888044284096048,15.89,158.8804428409682,176,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_18,2,Mental health,0.30131607467845906,30.13,301.3160746784736,292,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_18,3,Nutrition,0.07233515061184999,7.23,72.33515061185349,67,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_18,4,Infectious diseases,0.049995256985031156,5.0,49.99525698503358,48,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_18,5,Substance abuse,0.12265514471759824,12.27,122.65514471760417,123,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_18,6,Access to care,0.20087732878405792,20.09,200.87732878406766,198,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_18,7,Environmental health,0.05304491165767745,5.3,53.04491165768002,53,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_18,8,Other (please specify),0.04089568972436559,4.09,40.89568972436757,43,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-18
+2024-122_b_19,1,Multisector collaboration,0.14421544089764526,14.42,144.21544089765226,147,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-19
+2024-122_b_19,2,Cross-sector collaboration,0.09563333541182259,9.56,95.63333541182722,93,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-19
+2024-122_b_19,3,Cross-boundary collaboration,0.058255882863690475,5.83,58.255882863693294,50,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-19
+2024-122_b_19,4,Collaborative networks,0.14990261454702908,14.99,149.90261454703634,166,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-19
+2024-122_b_19,5,Collaborative partnerships,0.23844799862521113,23.84,238.44799862522268,271,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-19
+2024-122_b_19,6,Other,0.021394809978657447,2.14,21.394809978658483,17,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-19
+2024-122_b_19,7,Unsure,0.29214991767594395,29.21,292.1499176759581,256,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-19
+2024-122_b_2,1,X (Twitter),0.053837382742463705,5.38,53.83738274246631,63,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-2
+2024-122_b_2,2,Instagram,0.2177122731213131,21.77,217.71227312132365,188,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-2
+2024-122_b_2,3,Tiktok,0.1189652903974212,11.9,118.96529039742695,95,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-2
+2024-122_b_2,4,LinkedIn,0.010983449856303163,1.1,10.983449856303695,15,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-2
+2024-122_b_2,5,Facebook,0.4994254009996071,49.94,499.4254009996313,529,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-2
+2024-122_b_2,6,Snapchat,0.015114664799568283,1.51,15.114664799569015,11,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-2
+2024-122_b_2,7,Other,0.08396153808332338,8.4,83.96153808332744,99,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-2
+2024-122_b_20,1,Extremely important,0.21157386820051557,21.16,211.57386820052582,202,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-20
+2024-122_b_20,2,Very important,0.35925351166525465,35.93,359.2535116652721,372,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-20
+2024-122_b_20,3,Moderately important,0.2991040334194433,29.91,299.1040334194578,295,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-20
+2024-122_b_20,4,Slightly important,0.09213216211344069,9.21,92.13216211344515,90,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-20
+2024-122_b_20,5,Not at all important,0.03793642460134567,3.79,37.93642460134751,41,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-20
+2024-122_b_21,1,Yes,0.36680263083002007,36.68,366.80263083003786,358,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-21
+2024-122_b_21,2,No,0.6331973691699798,63.32,633.1973691700105,642,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-21
+2024-122_b_22,1,Yes,0.2339706826826356,23.4,233.97068268264692,214,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-22
+2024-122_b_22,2,No,0.5128126979059778,51.28,512.8126979060027,538,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-22
+2024-122_b_22,3,Maybe,0.2532166194113865,25.32,253.21661941139877,248,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-22
+2024-122_b_24,1,Increasing,0.3373269413230376,33.73,337.3269413230539,370,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-24
+2024-122_b_24,2,Decreasing,0.1134332200412811,11.34,113.4332200412866,111,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-24
+2024-122_b_24,3,Staying the same,0.2244749006285039,22.45,224.47490062851477,214,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-24
+2024-122_b_24,4,Don't know,0.3247649380071773,32.48,324.76493800719305,305,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-24
+2024-122_b_25,1,Hershey’s,0.3617432492027107,36.17,361.74324920272824,359,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-25
+2024-122_b_25,2,Reese’s,0.4018979631678737,40.19,401.8979631678931,404,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-25
+2024-122_b_25,3,Payday,0.1321881884357938,13.22,132.1881884358002,126,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-25
+2024-122_b_25,4,None,0.10417059919362175,10.42,104.17059919362678,111,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-25
+2024-122_b_26,1,Garri,0.22316425183746935,22.32,223.16425183748015,214,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-26
+2024-122_b_26,2,Acha,0.22002334024906156,22.0,220.02334024907222,231,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-26
+2024-122_b_26,3,Plantain,0.556812407913469,55.68,556.8124079134959,555,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-26
+2024-122_b_27,1,Appalachian,0.030919869899126946,3.09,30.919869899128443,33,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-27
+2024-122_b_27,2,Hispanic/Latino,0.16993060758046527,16.99,169.9306075804735,121,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-27
+2024-122_b_27,3,Non-Hispanic/Latino,0.5885241607244189,58.85,588.5241607244475,611,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-27
+2024-122_b_27,4,Other,0.2623484629618354,26.23,262.3484629618481,289,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-27
+2024-122_b_3,1,Never,0.20222110878490762,20.22,202.22110878491742,209,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-3
+2024-122_b_3,2,Rarely,0.258397342457753,25.84,258.3973424577655,258,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-3
+2024-122_b_3,3,Sometimes,0.30173682098600985,30.17,301.73682098602444,303,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-3
+2024-122_b_3,4,Often,0.1262806972710367,12.63,126.2806972710428,126,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-3
+2024-122_b_3,5,Very often,0.10134185387723686,10.13,101.34185387724177,95,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-3
+2024-122_b_3,6,I am not sure,0.0075157994837702045,0.75,7.515799483770569,7,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-3
+2024-122_b_3,7,I prefer not to answer,0.002506377139285746,0.25,2.5063771392858674,2,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-3
+2024-122_b_4,1,Strongly disagree,0.12188449081428854,12.19,121.88449081429444,98,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-4
+2024-122_b_4,2,Somewhat disagree,0.2677899030360144,26.78,267.7899030360274,267,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-4
+2024-122_b_4,3,Neither agree or disagree,0.24551613488363497,24.55,245.51613488364686,239,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-4
+2024-122_b_4,4,Somewhat agree,0.3195444135345507,31.95,319.54441353456616,351,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-4
+2024-122_b_4,5,Strongly agree,0.045265057731511314,4.53,45.26505773151351,45,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-4
+2024-122_b_5,1,Agree,0.7304401601609148,73.04,730.4401601609502,749,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-5
+2024-122_b_5,2,Disagree,0.26955983983908505,26.96,269.5598398390981,251,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-5
+2024-122_b_6,1,Fewer than 100 people,0.2374809473468241,23.75,237.4809473468356,242,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-6
+2024-122_b_6,2,Fewer than 1000 people,0.46203774831744776,46.2,462.0377483174701,472,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-6
+2024-122_b_6,3,"Fewer than 10,000 people",0.22756514884524104,22.76,227.56514884525205,232,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-6
+2024-122_b_6,4,"Fewer than 100,000 people",0.07291615549048704,7.29,72.91615549049057,54,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-6
+2024-122_b_7,1,Strongly disagree,0.020524733225171,2.05,20.524733225171993,19,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-7
+2024-122_b_7,2,Disagree,0.015054183795877352,1.51,15.054183795878082,18,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-7
+2024-122_b_7,3,Neither disagree nor agree,0.14964469899934718,14.96,149.64469899935443,127,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-7
+2024-122_b_7,4,Agree,0.5016216182324643,50.16,501.62161823248863,522,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-7
+2024-122_b_7,5,Strongly Agree,0.31315476574714,31.32,313.1547657471552,314,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-7
+2024-122_b_8,1,Drivers,0.661158138159994,66.12,661.158138160026,694,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-8
+2024-122_b_8,2,"Road users other than drivers (e.g., pedestrians, bicyclists, etc.)",0.0560724206986153,5.61,56.07242069861802,47,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-8
+2024-122_b_8,3,Law enforcement,0.0779722738140666,7.8,77.97227381407038,72,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-8
+2024-122_b_8,4,Roadway engineers or designers,0.05713605477464102,5.71,57.13605477464378,58,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-8
+2024-122_b_8,5,Road maintenance personnel,0.04757049884842096,4.76,47.57049884842326,36,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-8
+2024-122_b_8,6,"Policymakers (e.g., legislators, commissioners, government)",0.08104229374348267,8.1,81.0422937434866,78,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-8
+2024-122_b_8,7,Vehicle manufacturers,0.019048319960779388,1.9,19.04831996078031,15,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122#q-b-8
+2025-148_q56,1,"Yes, Ethiopia",0.13478284542399813,13.48,134.78284542400465,150,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148#if-so-where-did-it-take-place
+2025-148_q56,2,"Yes, Eritrea",0.008766993285007909,0.88,8.766993285008333,10,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148#if-so-where-did-it-take-place
+2025-148_q56,3,"Yes, Sudan",0.02885401210274222,2.89,28.854012102743617,31,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148#if-so-where-did-it-take-place
+2025-148_q56,4,"Yes, Ukraine",0.027172003489289595,2.72,27.172003489290912,18,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148#if-so-where-did-it-take-place
+2025-148_q56,5,"Yes, Yemen",0.005814759392155893,0.58,5.814759392156175,4,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148#if-so-where-did-it-take-place
+2025-148_q56,6,"Yes, Syria",0.010085930004368958,1.01,10.085930004369446,8,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148#if-so-where-did-it-take-place
+2025-148_q56,7,No,0.7845234563024372,78.45,784.5234563024752,779,false,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148#if-so-where-did-it-take-place
+2026-044_q5_25,1,Speeding,0.12365880866823001,12.37,123.65880866823599,121,false,https://reports.verasight.io/reports/omnibus-2026-044#q-5-25
+2026-044_q5_25,2,Distracted driving,0.3878667617881492,38.79,387.866761788168,408,false,https://reports.verasight.io/reports/omnibus-2026-044#q-5-25
+2026-044_q5_25,3,Aggressive driving,0.20135689959221229,20.14,201.35689959222205,195,false,https://reports.verasight.io/reports/omnibus-2026-044#q-5-25
+2026-044_q5_25,4,Driving under the influence of alcohol,0.1775641257735501,17.76,177.56412577355871,182,false,https://reports.verasight.io/reports/omnibus-2026-044#q-5-25
+2026-044_q5_25,5,Driving under the influence of cannabis,0.02501023416003227,2.5,25.010234160033484,20,false,https://reports.verasight.io/reports/omnibus-2026-044#q-5-25
+2026-044_q5_25,6,Driving under the influence of substances other than alcohol or cannabis,0.07210377439422729,7.21,72.10377439423078,64,false,https://reports.verasight.io/reports/omnibus-2026-044#q-5-25
+2026-044_q5_25,7,"Lack of occupational protection (example: not wearing a seatbelt, not wearing a helmet, etc.)",0.012439395623598701,1.24,12.439395623599303,10,false,https://reports.verasight.io/reports/omnibus-2026-044#q-5-25

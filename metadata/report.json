@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1.0",
+  "report_id": "2024-122",
+  "repo_name": "verasight-report-2024-122",
+  "title": "Verasight APHA Omnibus Survey #2024-122",
+  "wave_id": "2024-122",
+  "source_report_url": "https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2024-11-19",
+    "end": "2024-11-22"
+  },
+  "population": "United States adults",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 58,
+  "modules": [
+    "A",
+    "B",
+    "Module 2",
+    "Health, Community, & Personal Values"
+  ],
+  "publication_status": "ready_for_draft",
+  "reuse_status": "reference_only_pending_verasight_license_decision"
+}
