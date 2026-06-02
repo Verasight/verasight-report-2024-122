@@ -1,5 +1,4 @@
 {
-  "schema_version": "0.1.0",
   "report_id": "2024-122",
   "repo_name": "verasight-report-2024-122",
   "title": "Verasight APHA Omnibus Survey #2024-122",
@@ -20,7 +19,5 @@
     "B",
     "Module 2",
     "Health, Community, & Personal Values"
-  ],
-  "publication_status": "ready_for_draft",
-  "reuse_status": "reference_only_pending_verasight_license_decision"
+  ]
 }
