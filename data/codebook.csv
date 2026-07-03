@@ -1,0 +1,263 @@
+question_id,option_id,option_label,is_missing
+2024-122_a_1,1,Yes,false
+2024-122_a_1,2,No,false
+2024-122_a_1,3,Not sure,false
+2024-122_a_10,1,Yes,false
+2024-122_a_10,2,No,false
+2024-122_a_10,3,Not Sure,false
+2024-122_a_11,1,No,false
+2024-122_a_11,2,"Yes, Adjustable Gastric Band (LAP-Band surgery)",false
+2024-122_a_11,3,"Yes, Biliopancreatic Diversion with Duodenal Switch",false
+2024-122_a_11,4,"Yes, Gastric Bypass",false
+2024-122_a_11,5,"Yes, Gastric Sleeve",false
+2024-122_a_12,1,Never,false
+2024-122_a_12,2,Unlikely,false
+2024-122_a_12,3,Neutral,false
+2024-122_a_12,4,Somewhat likely,false
+2024-122_a_12,5,Definitely,false
+2024-122_a_13,1,Not applicable; I did not have braces when I was between 9-26 years old.,false
+2024-122_a_13,3,"Yes, the orthodontist or orthodontist assistant provided health information on vaccinations for young people.",false
+2024-122_a_13,4,"Yes, the orthodontist or orthodontist assistant provided health education on eating healthy.",false
+2024-122_a_13,5,"No, the orthodontist or orthodontist assistant did NOT provide general health education for young people.",false
+2024-122_a_14,1,Yes,false
+2024-122_a_14,2,Not yet but I anticipate needing it in the next 12 months,false
+2024-122_a_14,3,No,false
+2024-122_a_15,1,Less than $100,false
+2024-122_a_15,2,At least $100 but less than $500,false
+2024-122_a_15,3,At least $500 but less than $1000,false
+2024-122_a_15,4,At least $1000 but less than $2500,false
+2024-122_a_15,5,At least $2500 but less than $5000,false
+2024-122_a_15,6,At least $5000 but less than $9000,false
+2024-122_a_15,7,$9000 or more,false
+2024-122_a_16,1,Significantly,false
+2024-122_a_16,2,Somewhat,false
+2024-122_a_16,3,Not at all,false
+2024-122_a_16,4,Unsure,false
+2024-122_a_17,1,1,false
+2024-122_a_17,2,2,false
+2024-122_a_17,3,3,false
+2024-122_a_17,4,4,false
+2024-122_a_17,5,5,false
+2024-122_a_18,1,Strongly disagree,false
+2024-122_a_18,2,Disagree,false
+2024-122_a_18,3,Neither disagree nor agree,false
+2024-122_a_18,4,Agree,false
+2024-122_a_18,5,Strongly agree,false
+2024-122_a_18,6,I do not have a primary/family doctor,false
+2024-122_a_19,1,Strongly Disagree,false
+2024-122_a_19,2,Disagree,false
+2024-122_a_19,3,Neither Disagree nor Agree,false
+2024-122_a_19,4,Agree,false
+2024-122_a_19,5,Strongly Agree,false
+2024-122_a_19,6,I do not have a primary care or family doctor,false
+2024-122_a_2,1,Yes,false
+2024-122_a_2,2,No,false
+2024-122_a_20,1,Strongly agree,false
+2024-122_a_20,2,Agree,false
+2024-122_a_20,3,Neither agree or disagree,false
+2024-122_a_20,4,Disagree,false
+2024-122_a_20,5,Strongly disagree,false
+2024-122_a_20,6,I don’t have a primary care/family doctor,false
+2024-122_a_21,1,"Yes, only to me",false
+2024-122_a_21,2,"Yes, only to my child",false
+2024-122_a_21,3,"Yes, to both me and my child",false
+2024-122_a_21,4,No,false
+2024-122_a_21,5,I don't remember,false
+2024-122_a_22,1,Yes,false
+2024-122_a_22,2,No,false
+2024-122_a_22,3,I am not sure,false
+2024-122_a_23,1,Me and/or my partner,false
+2024-122_a_23,2,A family member,false
+2024-122_a_23,3,"A friend, colleague, or acquaintance",false
+2024-122_a_23,4,I don’t know anyone with infertility,false
+2024-122_a_24,1,"Yes, with no restrictions.",false
+2024-122_a_24,2,"Yes, but with some restrictions (e.g., unused embryos cannot be discarded)",false
+2024-122_a_24,3,No,false
+2024-122_a_24,4,Unsure,false
+2024-122_a_25,1,Strongly support,false
+2024-122_a_25,2,Somewhat support,false
+2024-122_a_25,3,Neither support nor oppose,false
+2024-122_a_25,4,Somewhat oppose,false
+2024-122_a_25,5,Strongly oppose,false
+2024-122_a_26,1,Yes,false
+2024-122_a_26,2,Somewhat,false
+2024-122_a_26,3,No,false
+2024-122_a_26,4,Unsure,false
+2024-122_a_27,1,Gay or Lesbian,false
+2024-122_a_27,2,Bisexual,false
+2024-122_a_27,3,Heterosexual,false
+2024-122_a_27,4,Pansexual,false
+2024-122_a_27,5,Other (Please specify),false
+2024-122_a_28,1,0- Strongly Disagree,false
+2024-122_a_28,2,1,false
+2024-122_a_28,3,2,false
+2024-122_a_28,4,3,false
+2024-122_a_28,5,4,false
+2024-122_a_28,6,5- Strongly Agree,false
+2024-122_a_29,1,Yes,false
+2024-122_a_29,2,No,false
+2024-122_a_3,1,Yes,false
+2024-122_a_3,2,No,false
+2024-122_a_30,1,"Yes, I was born in Africa",false
+2024-122_a_30,2,"Yes, I was born in America",false
+2024-122_a_30,3,"Yes, I was born in the Caribbean",false
+2024-122_a_30,4,"Yes, I was born in Latin America",false
+2024-122_a_30,5,"Yes, I was born in Europe",false
+2024-122_a_30,6,"Yes, I was born elsewhere",false
+2024-122_a_30,7,No,false
+2024-122_a_31,1,Never,false
+2024-122_a_31,2,Rarely,false
+2024-122_a_31,3,Sometimes,false
+2024-122_a_31,4,Often,false
+2024-122_a_31,5,Very often,false
+2024-122_a_31,6,I am not sure,false
+2024-122_a_31,7,I prefer not to answer,false
+2024-122_a_4,1,Yes,false
+2024-122_a_4,2,No,false
+2024-122_a_4,3,Unsure,false
+2024-122_a_5,1,Very likely,false
+2024-122_a_5,2,Somewhat likely,false
+2024-122_a_5,3,Neutral,false
+2024-122_a_5,4,Somewhat unlikely,false
+2024-122_a_5,5,Very unlikely,false
+2024-122_a_6,1,Yes,false
+2024-122_a_6,2,No,false
+2024-122_a_6,3,I don't know,false
+2024-122_a_7,1,Yes,false
+2024-122_a_7,2,No,false
+2024-122_a_7,3,I don’t know,false
+2024-122_a_8,1,Yes,false
+2024-122_a_8,2,No,false
+2024-122_a_8,3,I don’t know,false
+2024-122_a_9,1,0 per week,false
+2024-122_a_9,2,1- 1 of the 4 substances listed above per week,false
+2024-122_a_9,3,2- any combination of 2 substances (of the 4 listed above) per week,false
+2024-122_a_9,4,3- any combination of 3 substances (of the 4 listed above) per week,false
+2024-122_a_9,5,4- all 4 substances per week,false
+2024-122_b_1,1,Not at all,false
+2024-122_b_1,2,A little,false
+2024-122_b_1,3,Somewhat,false
+2024-122_b_1,4,A lot,false
+2024-122_b_1,5,Completely,false
+2024-122_b_10,1,Yes,false
+2024-122_b_10,2,No,false
+2024-122_b_10,3,Unsure,false
+2024-122_b_10,4,I do not live in Louisiana,false
+2024-122_b_11,1,Yes,false
+2024-122_b_11,2,No,false
+2024-122_b_12,1,Yes,false
+2024-122_b_12,2,No,false
+2024-122_b_13,1,"Yes, I have received benefits in the past",false
+2024-122_b_13,2,"Yes, I currently use SNAP",false
+2024-122_b_13,3,"No, I applied but did not receive benefits",false
+2024-122_b_13,4,"No, I never applied",false
+2024-122_b_14,1,Yes,false
+2024-122_b_14,2,No,false
+2024-122_b_14,3,I don't know,false
+2024-122_b_15,1,Very Positive,false
+2024-122_b_15,2,Positive,false
+2024-122_b_15,3,Neutral,false
+2024-122_b_15,4,Negative,false
+2024-122_b_15,5,Very Negative,false
+2024-122_b_15,6,I don’t know what that is,false
+2024-122_b_16,1,1- Strongly agree,false
+2024-122_b_16,2,2- Agree,false
+2024-122_b_16,3,3- Neither agree nor disagree,false
+2024-122_b_16,4,4- Disagree,false
+2024-122_b_16,5,5- Strongly Disagree,false
+2024-122_b_17,1,Mother,false
+2024-122_b_17,2,Partner,false
+2024-122_b_17,3,Clergy,false
+2024-122_b_17,4,Provider,false
+2024-122_b_17,5,Friend,false
+2024-122_b_18,1,Gun violence,false
+2024-122_b_18,2,Mental health,false
+2024-122_b_18,3,Nutrition,false
+2024-122_b_18,4,Infectious diseases,false
+2024-122_b_18,5,Substance abuse,false
+2024-122_b_18,6,Access to care,false
+2024-122_b_18,7,Environmental health,false
+2024-122_b_18,8,Other (please specify),false
+2024-122_b_19,1,Multisector collaboration,false
+2024-122_b_19,2,Cross-sector collaboration,false
+2024-122_b_19,3,Cross-boundary collaboration,false
+2024-122_b_19,4,Collaborative networks,false
+2024-122_b_19,5,Collaborative partnerships,false
+2024-122_b_19,6,Other,false
+2024-122_b_19,7,Unsure,false
+2024-122_b_2,1,X (Twitter),false
+2024-122_b_2,2,Instagram,false
+2024-122_b_2,3,Tiktok,false
+2024-122_b_2,4,LinkedIn,false
+2024-122_b_2,5,Facebook,false
+2024-122_b_2,6,Snapchat,false
+2024-122_b_2,7,Other,false
+2024-122_b_20,1,Extremely important,false
+2024-122_b_20,2,Very important,false
+2024-122_b_20,3,Moderately important,false
+2024-122_b_20,4,Slightly important,false
+2024-122_b_20,5,Not at all important,false
+2024-122_b_21,1,Yes,false
+2024-122_b_21,2,No,false
+2024-122_b_22,1,Yes,false
+2024-122_b_22,2,No,false
+2024-122_b_22,3,Maybe,false
+2024-122_b_24,1,Increasing,false
+2024-122_b_24,2,Decreasing,false
+2024-122_b_24,3,Staying the same,false
+2024-122_b_24,4,Don't know,false
+2024-122_b_25,1,Hershey’s,false
+2024-122_b_25,2,Reese’s,false
+2024-122_b_25,3,Payday,false
+2024-122_b_25,4,None,false
+2024-122_b_26,1,Garri,false
+2024-122_b_26,2,Acha,false
+2024-122_b_26,3,Plantain,false
+2024-122_b_27,1,Appalachian,false
+2024-122_b_27,2,Hispanic/Latino,false
+2024-122_b_27,3,Non-Hispanic/Latino,false
+2024-122_b_27,4,Other,false
+2024-122_b_3,1,Never,false
+2024-122_b_3,2,Rarely,false
+2024-122_b_3,3,Sometimes,false
+2024-122_b_3,4,Often,false
+2024-122_b_3,5,Very often,false
+2024-122_b_3,6,I am not sure,false
+2024-122_b_3,7,I prefer not to answer,false
+2024-122_b_4,1,Strongly disagree,false
+2024-122_b_4,2,Somewhat disagree,false
+2024-122_b_4,3,Neither agree or disagree,false
+2024-122_b_4,4,Somewhat agree,false
+2024-122_b_4,5,Strongly agree,false
+2024-122_b_5,1,Agree,false
+2024-122_b_5,2,Disagree,false
+2024-122_b_6,1,Fewer than 100 people,false
+2024-122_b_6,2,Fewer than 1000 people,false
+2024-122_b_6,3,"Fewer than 10,000 people",false
+2024-122_b_6,4,"Fewer than 100,000 people",false
+2024-122_b_7,1,Strongly disagree,false
+2024-122_b_7,2,Disagree,false
+2024-122_b_7,3,Neither disagree nor agree,false
+2024-122_b_7,4,Agree,false
+2024-122_b_7,5,Strongly Agree,false
+2024-122_b_8,1,Drivers,false
+2024-122_b_8,2,"Road users other than drivers (e.g., pedestrians, bicyclists, etc.)",false
+2024-122_b_8,3,Law enforcement,false
+2024-122_b_8,4,Roadway engineers or designers,false
+2024-122_b_8,5,Road maintenance personnel,false
+2024-122_b_8,6,"Policymakers (e.g., legislators, commissioners, government)",false
+2024-122_b_8,7,Vehicle manufacturers,false
+2025-148_q56,1,"Yes, Ethiopia",false
+2025-148_q56,2,"Yes, Eritrea",false
+2025-148_q56,3,"Yes, Sudan",false
+2025-148_q56,4,"Yes, Ukraine",false
+2025-148_q56,5,"Yes, Yemen",false
+2025-148_q56,6,"Yes, Syria",false
+2025-148_q56,7,No,false
+2026-044_q5_25,1,Speeding,false
+2026-044_q5_25,2,Distracted driving,false
+2026-044_q5_25,3,Aggressive driving,false
+2026-044_q5_25,4,Driving under the influence of alcohol,false
+2026-044_q5_25,5,Driving under the influence of cannabis,false
+2026-044_q5_25,6,Driving under the influence of substances other than alcohol or cannabis,false
+2026-044_q5_25,7,"Lack of occupational protection (example: not wearing a seatbelt, not wearing a helmet, etc.)",false
