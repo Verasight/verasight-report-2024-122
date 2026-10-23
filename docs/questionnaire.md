@@ -32,7 +32,7 @@ In the last year, how much out of pocket money have you spent on health care, in
 
 ## 2024-122_a_16
 
-doctor’s visits, wellness checks, public programs.
+To what extent do you believe that any past trauma impacts your use of health and social services, e.g. doctor’s visits, wellness checks, public programs.
 
 ## 2024-122_a_17
 
